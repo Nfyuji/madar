@@ -10,7 +10,7 @@
 ## التشغيل
 
 ```powershell
-git clone https://github.com/yhyyaljbly98-dev/madar.git
+git clone https://github.com/a84078373-commits/madarsa.git
 cd madar
 pip install -r requirements.txt
 $env:MADAR_ADMIN_PASSWORD = Read-Host "Choose the Admin password"
